@@ -1,0 +1,2 @@
+INSERT INTO restaurants (name, distance, stars, category, favorite_dish, does_takeout, last_visit)
+VALUES ('Baking Hope', 7, 5, 'vegan', 'Not So Cubano', TRUE, '2020-02-04'), ('Panera', 2, 4, 'deli', 'Greek Salad', TRUE, '2020-01-27'), ('Bento Bowl', 338, 5, 'Asian', 'Sweet and Sour Chicken Bowl', TRUE,  '2018-06-25')
